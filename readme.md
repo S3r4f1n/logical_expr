@@ -43,7 +43,7 @@ operator
  == // string, integer, float  
  != // string, integer, float  
  < // integer, float
- > // integer, float
+ \> // integer, float
  <= // integer, float  
  = // integer, float  
  && // boolean  
