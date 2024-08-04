@@ -43,14 +43,12 @@ operator
  == // string, integer, float  
  != // string, integer, float  
  < // integer, float
-
->          // integer, float
->
-> <= // integer, float  
-> = // integer, float  
->  && // boolean  
->  || // boolean  
->  =~ // string (regex)
+ > // integer, float
+ <= // integer, float  
+ = // integer, float  
+ && // boolean  
+ || // boolean  
+ =~ // string (regex)
 
 unary_operator  
  ! // boolean
