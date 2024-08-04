@@ -16,7 +16,7 @@ use expression::BooleanExpression;
 /// This functions sits at the core of the library. It takes an expression as a string and returns a boolean.
 /// 
 /// # Examples
-/// ```
+/// ```rust
 /// use logical_expr::{Context, ContextValue, evaluate};
 /// 
 /// let mut context = Context::new();
